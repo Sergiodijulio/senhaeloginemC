@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668959314 source:c:\users\sergi\documents\projetos linguagem c\projeto pim4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
